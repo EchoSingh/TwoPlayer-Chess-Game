@@ -1,7 +1,7 @@
 # ♟️ Chess Game ♛♞♝♚
 
 Welcome to the Simple Chess Game project! This project allows you to play chess against your friends directly in your web browser.
-![Mage Image](Screenshots/chess1.0.jpg)
+![Mage Image](Screenshots/smallchess1.0.jpg)
 ### 🚀 Quick Start
 
 To start playing:
