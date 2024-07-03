@@ -1,7 +1,7 @@
 # ♟️ Chess Game ♛♞♝♚
 
 Welcome to the Simple Chess Game project! This project allows you to play chess against your friends directly in your web browser.
-
+![Mage Image](Screenshots/chess1.0.jpg)
 ### 🚀 Quick Start
 
 To start playing:
@@ -51,7 +51,7 @@ Feel free to contribute to improving this project! Fork it, make your changes, a
 
 ### 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ### 📧 Contact
 
